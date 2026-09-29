@@ -4,6 +4,12 @@ PulMetrix is a medical imaging application designed for lung segmentation and as
 
 The application incorporates two segmentation methods: an automatic approach using the TVAC (Total Variation-based Active Contour) algorithm and a semi-manual approach involving the selection of points of interest (Region Growing).
 
+## Documentation
+
+The full project documentation is available here:
+
+**[Read the documentation](https://zarvork.github.io/PulMetrix/)**
+
 ## Installation
 
 ### Option 1: Deployment with Docker (Recommended)
