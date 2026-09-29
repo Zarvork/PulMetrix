@@ -63,3 +63,11 @@ If you chose the Docker installation option, once the containers have started, y
 
 
 You can interact with the API using the frontend, curl, or the interactive Swagger.
+
+## Authors
+
+- Anis Feore
+- Alexis Meunier
+- Johan Emmanuelli
+- Lucil Finkelstein
+- Roman Miralves
